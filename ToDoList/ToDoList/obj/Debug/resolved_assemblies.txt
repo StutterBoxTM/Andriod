@@ -1,0 +1,6 @@
+\\telmar\users\SC034\My Documents\Projects\ToDoList\ToDoList\obj\Debug\assemblies\ToDoList.dll
+\\telmar\users\SC034\My Documents\Projects\ToDoList\ToDoList\obj\Debug\assemblies\Mono.Android.dll
+\\telmar\users\SC034\My Documents\Projects\ToDoList\ToDoList\obj\Debug\assemblies\mscorlib.dll
+\\telmar\users\SC034\My Documents\Projects\ToDoList\ToDoList\obj\Debug\assemblies\System.Core.dll
+\\telmar\users\SC034\My Documents\Projects\ToDoList\ToDoList\obj\Debug\assemblies\System.dll
+\\telmar\users\SC034\My Documents\Projects\ToDoList\ToDoList\obj\Debug\assemblies\System.Xml.dll
